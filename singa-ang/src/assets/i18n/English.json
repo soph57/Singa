@@ -1,0 +1,121 @@
+{
+  "HOME": {
+    "TITLE": "Hello Angular!",
+    "SELECT": "Change language",
+    "INTRO": "Here are some links to help you start:"
+  },
+  "NAV": {
+    "DONATION": "MAKE A DONATION",
+    "LOGIN": "LOGIN",
+    "EVENTS": "EVENTS",
+    "PROGRAMMES": "PROGRAMMES",
+    "ANNOUNCEMENTS": "ANNOUNCEMENTS",
+    "STORIES": "STORIES",
+    "LOCATIONS": "LOCATIONS"
+  },
+  "PRESENTATION": {
+    "WELCOME": "Welcoming the refugees for a better society",
+    "CALL": "Join the Singa community today!",
+    "NICKNAME": "Your nickname",
+    "EMAIL": "Your e-mail",
+    "SUBMIT": "I SUBSCRIBE"
+  },
+  "EVENTS": {
+    "TITLE": "Your events",
+    "CITIES": "ALL THE CITIES",
+    "THEMES": "ALL THE THEMES",
+    "ADD": "I CREATE AN EVENT",
+    "MORE": "SEE MORE EVENTS"
+  },
+  "PROGRAMMES": {
+    "TITLE": "Your programmes",
+    "CITIES": "ALL THE CITIES",
+    "THEMES": "ALL THE THEMES",
+    "ADD": "I CREATE A PROGRAM",
+    "MORE": "SEE MORE PROGRAMMES"
+  },
+  "ANNOUNCEMENTS": {
+    "TITLE": "Your announcements",
+    "THEMES": "ALL THE THEMES",
+    "ADD": "I CREATE A ANNOUNCEMENT",
+    "MORE": "SEE MORE ANNOUNCEMENTS"
+  },
+  "STORIES": {
+    "TITLE": "Your stories",
+    "THEMES": "ALL THE THEMES",
+    "ADD": "I CREATE A STORY",
+    "MORE": "SEE MORE STORIES"
+  },
+  "MAP": "Your locations",
+  "FOOTER": {
+    "CHARTER": "Charter",
+    "LEGAL NOTICES": "Legal notices",
+    "TERMS OF USE": "Terms of use",
+    "FAQ": "FAQ",
+    "NEWSPAPER": "Newspaper",
+    "PARTNERS": "Partners",
+    "JOINING": "Join the Singa community",
+    "SUBSCRIBE": "I SUBSCRIBE",
+    "SOCIAL": "Find us in:",
+    "CONTACT": "CONTACT US"
+  },
+  "SIGN UP": {
+    "TITLE": "I subscribe",
+    "FORM-TITLE": "Join the Singa community and participate into our information meeting!",
+    "LASTNAME": "Your name",
+    "FIRSTNAME": "Your first name",
+    "BIRTHDATE": "Your Birthdate",
+    "EMAIL": "Your e-mail",
+    "NUMBER": "Your phone number",
+    "JOIN": "I JOIN THE COMMUNITY"
+  },
+  "PROFILE": {
+    "PROFILE": "MY PROFILE",
+    "MESSAGES": "MY MESSAGES",
+    "PROPOSITIONS": "MY PROPOSITIONS",
+    "GROUP": "MY GROUPS",
+    "NETWORK": "MY NETWORK",
+    "DETAILS": {
+    },
+    "PASSWORD": "CHANGE MY PASSWORD",
+    "UPDATE": "UPDATE MY PROFILE",
+    "BADGE": "My badges",
+    "SUGGEST": "Meeting suggestions",
+    "MORE SUGGEST": "SEE MORE SUGGESTIONS",
+    "PROPOSITION": "My propositions",
+    "THEME": "ALL THE THEMES",
+    "EVENTS": "EVENTS",
+    "PROGRAMMES": "PROGRAMMES",
+    "ANNOUNCEMENTS": "ANNOUNCEMENTS",
+    "STORIES": "STORIES",
+    "ADD EVENT": "ADD AN EVENT",
+    "ADD PROGRAM": "ADD A PROGRAM",
+    "ADD ANNOUNCEMENT": "ADD AN ANNOUNCEMENT",
+    "ADD STORY": "ADD A STORY",
+    "MORE": "SEE MORE PROPOSITIONS",
+    "GROUPS": "My groups",
+    "ADD GROUP": "ADD A GROUP"
+  },
+  "PROGRAM": {
+    "TITLE": "Enter the title of your program",
+    "PHOTO": "ADD A PHOTO",
+    "LOCATION": "The location of your program:",
+    "LOCATION INPUT": "The address of your program:",
+    "DATE START": "The date of beginning of your program:",
+    "DATE END": "The date of end of your program:",
+    "SEATS": "Number of available seats:",
+    "VIDEO": "Presentation video:",
+    "PDF": "Import a PDF:",
+    "PDF BUTTON": "SELECT A PDF",
+    "DESCRIPTION": "Describe your program:",
+    "DESCRIPTION INPUT": "Enter the description of your program...",
+    "KEYWORDS": "Add your keywords:",
+    "SUBMIT": "I SUBMIT MY PROGRAM"
+  },
+  "MISC": {
+    "MEMBERS": "Members of the group",
+    "MORE MEMBERS": "SEE MORE MEMBERS",
+    "MESSAGES": "MY MESSAGES"
+  }
+}
+
