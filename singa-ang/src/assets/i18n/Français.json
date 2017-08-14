@@ -1,0 +1,120 @@
+{
+  "HOME": {
+    "TITLE": "Bonjour Angular!",
+    "SELECT": "Changer la langue",
+    "INTRO": "Voici quelques liens pour vous aider à commencer:"
+  },
+  "NAV": {
+    "DONATION": "FAIRE UN DON",
+    "LOGIN": "CONNEXION",
+    "EVENTS": "ÉVÉNEMENTS",
+    "PROGRAMS": "PROGRAMMES",
+    "ANNOUNCEMENTS": "ANNONCES",
+    "STORIES": "HISTOIRES",
+    "LOCATIONS": "LIEUX"
+  },
+  "PRESENTATION": {
+    "WELCOME": "Accueillir les réfugiés pour une meilleure société.",
+    "CALL": "Rejoignez la communauté SINGA dès aujourd'hui!",
+    "NICKNAME": "Votre pseudonyme",
+    "EMAIL": "Votre adresse e-mail",
+    "SUBMIT": "JE M'INSCRIS"
+  },
+  "EVENTS": {
+    "TITLE": "Vos événements",
+    "CITIES": "TOUTES LES VILLES",
+    "THEMES": "TOUS LES THÈMES",
+    "ADD": "JE CRÉE UN ÉVÉNEMENTS",
+    "MORE": "VOIR PLUS D'ÉVÉNEMENTS"
+  },
+  "PROGRAMS": {
+    "TITLE": "Vos programmes",
+    "CITIES": "TOUTES LES VILLES",
+    "THEMES": "TOUS LES THÈMES",
+    "ADD": "AJOUTER UN PROGRAMME",
+    "MORE": "VOIR PLUS DE PROGRAMMES"
+  },
+  "ANNOUNCEMENTS": {
+    "TITLE": "Vos annonces",
+    "THEMES": "TOUS LES THÈMES",
+    "ADD": "AJOUTER UNE ANNONCE",
+    "MORE": "VOIR PLUS D'ANNONCES"
+  },
+  "STORIES": {
+    "TITLE": "Vos histoires",
+    "THEMES": "TOUS LES THÈMES",
+    "ADD": "J'AJOUTE UNE HISTOIRE",
+    "MORE": "VOIR PLUS D'HISTOIRES"
+  },
+  "MAP": "Your lieux",
+  "FOOTER": {
+    "CHARTER": "Charte",
+    "LEGAL NOTICES": "Mentions légales",
+    "TERMS OF USE": "Conditions d'utilisation",
+    "FAQ": "FAQ",
+    "NEWSPAPER": "Revue de presse",
+    "PARTNERS": "Partenaires",
+    "JOINING": "Rejoignez la communauté Singa",
+    "SUBSCRIBE": "JE M'INSCRIS",
+    "SOCIAL": "Retrouvez-nous sur:",
+    "CONTACT": "CONTACTEZ-NOUS"
+  },
+  "SIGN UP": {
+    "TITLE": "Je m'inscris",
+    "FORM-TITLE": "Rejoignez la communauté Singa et participez à notre réunion d'information!",
+    "LASTNAME": "Votre nom",
+    "FIRSTNAME": "Votre prénom",
+    "BIRTHDATE": "Votre date de naissance",
+    "EMAIL": "Votre e-mail",
+    "NUMBER": "Votre numéro de téléphone",
+    "JOIN": "I REJOINS LA COMMUNAUTÉ"
+  },
+  "PROFILE": {
+    "PROFILE": "MON PROFIL",
+    "MESSAGES": "MES MESSAGES",
+    "PROPOSITIONS": "MES PROPOSITIONS",
+    "GROUP": "MES GROUPES",
+    "NETWORK": "MON RÉSEAU",
+    "DETAILS": {
+    },
+    "PASSWORD": "CHANGER MON MOT DE PASSE",
+    "UPDATE": "MODIFIER MON PROFIL",
+    "BADGE": "Mes badges",
+    "SUGGEST": "Suggestions de rencontres",
+    "MORE SUGGEST": "VOIR PLUS DE SUGGESTIONS",
+    "PROPOSITION": "Mes propositions",
+    "THEMES": "TOUS LES THÈMES",
+    "EVENTS": "ÉVÉNEMENTS",
+    "PROGRAMS": "PROGRAMMES",
+    "ANNOUNCEMENTS": "ANNONCES",
+    "STORIES": "HISTOIRES",
+    "ADD EVENT": "AJOUTER UN ÉVÉNEMENT",
+    "ADD PROGRAM": "AJOUTER UN PROGRAMME",
+    "ADD ANNOUNCEMENT": "AJOUTER UNE ANNOUNCE",
+    "ADD STORY": "AJOUTER UNE HISTOIRE",
+    "MORE": "VOIR PLUS DE PROPOSITIONS",
+    "GROUPS": "Mes groupes",
+    "ADD GROUP": "AJOUTER UN GROUPE"
+  },
+  "PROGRAM": {
+    "TITLE": "Entrez le titre de votre programme",
+    "PHOTO": "AJOUTER UNE PHOTO",
+    "LOCATION": "Le lieu de votre programme:",
+    "LOCATION INPUT": "L'address de votre programme:",
+    "DATE START": "La date de début du programme:",
+    "DATE END": "La date de fin du programme:",
+    "SEATS": "Nombre de places disponibles:",
+    "VIDEO": "vidéo de présentation:",
+    "PDF": "Importer un PDF:",
+    "PDF BUTTON": "SÉLÉCTIONNER UN PDF",
+    "DESCRIPTION": "Décrivez votre programme:",
+    "DESCRIPTION INPUT": "Incrivez la description de votre programme...",
+    "KEYWORDS": "Ajoutez des mots-clefs:",
+    "SUBMIT": "JE SOUMETS MON PROGRAMME"
+  },
+  "MISC": {
+    "MEMBERS": "Membres du groupe",
+    "MORE MEMBERS": "VOIR PLUS DE MEMBRES",
+    "MESSAGES": "MES MESSAGES"
+  }
+}
